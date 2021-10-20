@@ -79,7 +79,7 @@ class Home extends React.Component{
                                         427.5,179Q463,250,420,313.5Z" fill="#000000">
                                         </path> --> */}
                                     {/* <!-- <image class="home__blob-img" x='90' y='140' xlink:href="/image.png"/> --> */}
-                                    <img src="/asset/imagen.png" alt=""/>
+                                    <img src="asset/imagen.png" alt=""/>
                                     {/* <!-- </svg>                          --> */}
                                 </div>
                                 <div class="home__data">
@@ -108,7 +108,7 @@ class Home extends React.Component{
                         <span class="section__subtitle">Mi introducción</span>
 
                         <div class="about__container container grid">
-                            <img src="/asset/foto.jpg" alt="" class="about__img"/>
+                            <img src="asset/foto.jpg" alt="" class="about__img"/>
 
                             <div class="about__data">
                                 <p class="about__description">Mi deseo es ayudar a las personas, 
@@ -733,7 +733,7 @@ class Home extends React.Component{
                                 <div class="testimonial__content swiper-slide">
                                     <div class="testimonial__data">
                                         <div class="testimonial__header">
-                                            <img src="/asset/raul.jpg" alt="" class="testimonial__img"/>
+                                            <img src="asset/raul.jpg" alt="" class="testimonial__img"/>
 
                                             <div>
                                                 <h3 class="testimonial__name">Raul Harris</h3>
